@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Quest„o1 {
+public class Quest√£o1 {
 	public static void main(String[] args) {
 		
 		int a, b, c, d = 0;
@@ -12,6 +12,6 @@ public class Quest„o1 {
 		c = ler.nextInt();
 		d = ler.nextInt();
 
-		System.out.println("O resultado da seguinte express„o (a + b + c) x d È igual a: " + (a + b + c)*d);
+		System.out.println("O resultado da seguinte express√£o (a + b + c) x d √© igual a: " + (a + b + c)*d);
 	}
 }
